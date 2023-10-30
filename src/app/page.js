@@ -7,7 +7,7 @@ export default function page() {
           <div className="row">
             <div className="card-body col-md-4">
               <img
-                src="img/kagami.png"
+                src="https://storage.googleapis.com/gambar-kagami/kagami.png"
                 className="img-fluid card-img rounded-circle"
               />
             </div>
